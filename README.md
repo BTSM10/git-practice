@@ -15,3 +15,7 @@ This topic is especially interesting to me because I am interested in AI and sof
 ## Comment by Estifanos-Wassie
 
 Great article choice! I agree that AI tools can help developers write code faster, but they don't replace the need to understand what the code actually does. If a developer can't review and verify AI-generated code, it becomes easy to introduce bugs or security problems without noticing. I think the most valuable skill going forward will be combining strong fundamentals, like reading code, debugging, and good design, with the ability to use AI tools effectively.
+
+## Comment by Bereket-454
+
+What stood out to me was the article's advice to keep pull requests focused and explain why a change is needed. AI can generate a solution quickly, but someone still has to decide whether that solution fits the problem and is understandable to the team. I also found the emphasis on reviewing your own changes useful: checking the diff and considering edge cases before requesting feedback makes collaboration more productive. This connects directly to our Git practice assignment, where a small change on a separate branch gives another developer a clear opportunity to review it before merging.
